@@ -10,9 +10,9 @@
     "link": "https://img.zjx.one/"
   },
   {
-    "icon": "CompactDisc",
-    "name": "音乐（开发中）",
-    "link": ""
+    "icon": "LaptopCode",
+    "name": "Gemini",
+    "link": "https://zjx-gemini.deno.dev"
   },
   {
     "icon": "Compass",

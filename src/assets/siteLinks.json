@@ -20,6 +20,11 @@
     "link": "http://tv.zjx.us"
   },
   {
+    "icon": "Cloud",
+    "name": "Wplace",
+    "link": "https://wplace.live/?lat=38.046776263559124&lng=114.50293912177735&zoom=15.483537624705203"
+  },
+  {
     "icon": "LaptopCode",
     "name": "加密聊天",
     "link": "https://t.zjx.us/"
